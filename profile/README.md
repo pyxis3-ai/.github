@@ -19,7 +19,7 @@ Each lock-in is independent. Each has a different cost to break. None of the exi
 | Repository | Purpose | License |
 |---|---|---|
 | [`pyxis-arch`](https://github.com/pyxis3-ai/pyxis-arch) | Architecture thesis — Funnel-Engine-Lens model, runtime-adapter abstraction, fair-share GPU scheduling, audit/lineage across runtime migration | MIT |
-| [`vllm-bench`](https://github.com/pyxis3-ai/vllm-bench) | TTFT + TPOT benchmarking for OpenAI-compatible inference endpoints across vLLM, TGI, Triton, SGLang on A100 / H100 / MI300X | MIT |
+| [`vllm-bench`](https://github.com/pyxis3-ai/vllm-bench) | TTFT + TPOT benchmarking for OpenAI-compatible inference endpoints — vLLM, TGI, llama.cpp, Ollama | MIT |
 | [`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook) | Production recipes for Kubernetes-native vLLM serving — vLLM-on-EKS, KEDA autoscaling, token economics, TTFT optimisation, runtime selection | Apache-2.0 |
 | [`lens`](https://github.com/pyxis3-ai/lens) | In-cluster Kubernetes observability with LLM-endpoint discovery for vLLM / TGI / llama.cpp / Ollama. In-browser `kubectl exec`. Live at [`lens.pyxis3.ai`](https://lens.pyxis3.ai) | MIT |
 | [`noor`](https://github.com/pyxis3-ai/noor) | Multilingual AI semantic search over Qur'an + classical Arabic literature. Sentence-Transformers + sqlite-vec. Live at [`noor.pyxis3.ai`](https://noor.pyxis3.ai) | MIT |
