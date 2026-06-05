@@ -21,7 +21,6 @@ The infrastructure and AI-infrastructure tooling we build in the open.
 | [`lens`](https://github.com/pyxis3-ai/lens) | In-cluster Kubernetes observability with LLM-endpoint discovery (vLLM, TGI, llama.cpp, Ollama) and in-browser `kubectl exec`. Live at [`lens.pyxis3.ai`](https://lens.pyxis3.ai). |
 | [`vllm-bench`](https://github.com/pyxis3-ai/vllm-bench) | TTFT and TPOT benchmarking for OpenAI-compatible inference endpoints across vLLM, TGI, llama.cpp, and Ollama. |
 | [`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook) | Production recipes for Kubernetes-native model serving: vLLM on EKS, KEDA autoscaling, token economics, runtime selection. |
-| [`pyxis-arch`](https://github.com/pyxis3-ai/pyxis-arch) | Architecture and design notes on operating LLM and AI-inference workloads on Kubernetes: runtime selection across vLLM/TGI/llama.cpp, GPU utilisation, and fair-share scheduling. |
 | [`noor`](https://github.com/pyxis3-ai/noor) | Multilingual AI semantic search over the Qur'an and classical Arabic literature. Sentence-Transformers and sqlite-vec. Live at [`noor.pyxis3.ai`](https://noor.pyxis3.ai). |
 | [`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm) | Curated index of open-source LLM-serving tooling: serving runtimes, routers, evaluators, and standards. |
 
