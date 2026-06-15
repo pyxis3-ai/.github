@@ -1,0 +1,17 @@
+name: ✨ Feature request
+description: Suggest an improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem / need
+      description: What real need does this solve? (Not "would be nice" — what are you actually trying to do?)
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
