@@ -6,9 +6,9 @@
 
 PYXIS3 is the autonomous operator that connects to your accounts across **AWS, Google Cloud, Azure, VMware, Nutanix, and on-prem** and runs the estate end to end — within your guardrails, across five dimensions. One predictable subscription, **never a share of savings**.
 
-[![Website](https://img.shields.io/badge/pyxis3.ai-6e56cf?logo=icloud&logoColor=white)](https://pyxis3.ai)
-[![Book a demo](https://img.shields.io/badge/Book%20a%20demo-→-1a1d24)](https://pyxis3.ai/demo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pyxis3)
+[![Website](https://img.shields.io/badge/pyxis3.ai-6e56cf?logo=icloud&logoColor=white&style=flat-square)](https://pyxis3.ai)
+[![Book a demo](https://img.shields.io/badge/Book%20a%20demo-→-1a1d24?style=flat-square)](https://pyxis3.ai/demo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/company/pyxis3)
 
 [Overview](#overview) · [Dimensions](#dimensions) · [Guardrails & pricing](#guardrails--pricing) · [Open source](#open-source) · [Contact](#contact)
 
