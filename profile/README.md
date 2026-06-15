@@ -2,25 +2,37 @@
 
 # PYXIS3
 
-**Autonomous AI that runs your cloud and data-center infrastructure operations.**
+### Infrastructure operations, run by AI.
+
+PYXIS3 is the autonomous operator that connects to your accounts across **AWS, Google Cloud, Azure, VMware, Nutanix, and on-prem** and runs the estate end to end — within your guardrails, across five dimensions. One predictable subscription, **never a share of savings**.
+
+[![Website](https://img.shields.io/badge/pyxis3.ai-6e56cf?logo=icloud&logoColor=white)](https://pyxis3.ai)
+[![Book a demo](https://img.shields.io/badge/Book%20a%20demo-→-1a1d24)](https://pyxis3.ai/demo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pyxis3)
 
 </div>
 
 ---
 
-[pyxis3.ai](https://pyxis3.ai) — PYXIS3 is the autonomous operator that connects to your accounts across AWS, Google Cloud, Azure, VMware, Nutanix, and on-prem, and runs the estate end to end, within your guardrails, across five dimensions: **cost, capacity, reliability, security, and governance**.
+## An operator, not a dashboard
 
-This organisation is our open-source home.
+PYXIS3 connects to your accounts, models every resource, and runs a continuous loop — **understand, decide, act, verify** — grounded in the FinOps Framework and the AWS Well-Architected pillars. It executes the reversible changes itself within your guardrails and holds the higher-impact ones, such as multi-year commitments, for your approval.
 
-## What PYXIS3 does
+| Dimension | What the operator does |
+|---|---|
+| 💰 **Cost** | Retires idle and orphaned resources, schedules non-production off-hours, sizes and maintains commitments. |
+| 📊 **Capacity** | Rightsizes from live utilisation. |
+| 🛡️ **Reliability** | Reinforces workloads running hot. |
+| 🔒 **Security** | Hardens exposures. |
+| 📋 **Governance** | Enforces policy. |
 
-PYXIS3 is an operator, not a dashboard. It connects to your accounts, models every resource, and runs a continuous loop — understand, decide, act, verify — grounded in the FinOps Framework and the AWS Well-Architected pillars. It retires idle and orphaned resources, schedules non-production off-hours, rightsizes from live utilisation, sizes and maintains commitments, reinforces workloads running hot, hardens exposures, and enforces policy — executing the reversible changes itself within your guardrails (lever allow-list, per-action and per-run caps, change-freeze windows, a pre-change baseline re-check, and one-click rollback) and holding the higher-impact ones, such as multi-year commitments, for your approval.
+**Guardrails** are first-class: a lever allow-list, per-action and per-run caps, change-freeze windows, a pre-change baseline re-check, and one-click rollback.
 
-One predictable subscription, priced on the infrastructure it manages, the way cloud platforms charge — never a share of savings. The savings it produces are shown as return on that subscription.
+**Pricing** is one predictable subscription, priced on the infrastructure it manages — the way cloud platforms charge, never a share of savings. The savings it produces are shown as return on that subscription.
 
 ## Open source
 
-Tooling we build in the open — infrastructure, AI infrastructure, and developer utilities.
+This organisation is our open-source home — infrastructure, AI-infrastructure, and developer tooling we build in the open.
 
 | Repository | Purpose |
 |---|---|
@@ -29,11 +41,14 @@ Tooling we build in the open — infrastructure, AI infrastructure, and develope
 | [`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook) | Production recipes for Kubernetes-native model serving: vLLM on EKS, KEDA autoscaling, token economics, runtime selection. |
 | [`noor`](https://github.com/pyxis3-ai/noor) | Multilingual AI semantic search over the Qur'an and classical Arabic literature. Sentence-Transformers and sqlite-vec. Live at [`noor.pyxis3.ai`](https://noor.pyxis3.ai). |
 | [`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm) | Curated index of open-source LLM-serving tooling: serving runtimes, routers, evaluators, and standards. |
-| [`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler) | Tiny macOS menu-bar app for total display control: disable/enable screens, Force HiDPI, EDR brightness boost, color warmth, window transparency/blur/picture-in-picture, and keep-awake. Objective-C on private CoreGraphics/SkyLight APIs. |
+| [`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler) | Tiny macOS menu-bar app for total display control: disable/enable screens, Force HiDPI, EDR brightness boost, color warmth, window transparency/blur/picture-in-picture, and keep-awake. |
 
-## Contact
+---
 
-- Website: [pyxis3.ai](https://pyxis3.ai)
-- Email: [ops@pyxis3.ai](mailto:ops@pyxis3.ai)
-- LinkedIn: [/company/pyxis3](https://www.linkedin.com/company/pyxis3)
-- Founder: [Omar Abdrabo (@oabdrabo)](https://github.com/oabdrabo)
+<div align="center">
+
+**[pyxis3.ai](https://pyxis3.ai)** · [Book a demo](https://pyxis3.ai/demo)
+
+<sub>Contact <a href="mailto:ops@pyxis3.ai">ops@pyxis3.ai</a> · founded by <a href="https://github.com/oabdrabo">Omar Abdrabo (@oabdrabo)</a></sub>
+
+</div>
