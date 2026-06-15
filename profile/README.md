@@ -47,7 +47,7 @@ This organisation is our open-source home — infrastructure, AI-infrastructure,
 | [`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook) | Production recipes for Kubernetes-native model serving: vLLM on EKS, KEDA autoscaling, token economics, runtime selection. |
 | [`noor`](https://github.com/pyxis3-ai/noor) | Multilingual AI semantic search over the Qur'an and classical Arabic literature. Sentence-Transformers and sqlite-vec. Live at [`noor.pyxis3.ai`](https://noor.pyxis3.ai). |
 | [`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm) | Curated index of open-source LLM-serving tooling: serving runtimes, routers, evaluators, and standards. |
-| [`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler) | Tiny macOS menu-bar app for total display control: disable/enable screens, Force HiDPI, EDR brightness boost, color warmth, window transparency/blur/picture-in-picture, and keep-awake. Objective-C on private CoreGraphics/SkyLight APIs. |
+| [`DisplayDeck`](https://github.com/oabdrabo/DisplayDeck) | Tiny macOS menu-bar app for total display control: disable/enable screens, Force HiDPI, EDR brightness boost, color warmth, window transparency/blur/picture-in-picture, and keep-awake. Objective-C on private CoreGraphics/SkyLight APIs. |
 
 ## Contact
 
