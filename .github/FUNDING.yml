@@ -1,2 +1,2 @@
-# Default Sponsor button for all @pyxis3-ai repositories.
-custom: ["https://donate.stripe.com/3cI6oI7Gh1PG0eV8MJ5kk00"]
+# Default "Sponsor" button for all @pyxis3-ai repositories — Stripe one-time + monthly.
+custom: ["https://donate.stripe.com/3cI6oI7Gh1PG0eV8MJ5kk00", "https://buy.stripe.com/00wbJ2f8J51S9Pv1kh5kk01"]
