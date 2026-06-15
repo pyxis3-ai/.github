@@ -4,17 +4,13 @@
 
 **Autonomous AI that runs your cloud and data-center infrastructure operations.**
 
-[![Website](https://img.shields.io/badge/pyxis3.ai-6e56cf?logo=icloud&logoColor=white)](https://pyxis3.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pyxis3)
-[![Email](https://img.shields.io/badge/ops@pyxis3.ai-EA4335?logo=gmail&logoColor=white)](mailto:ops@pyxis3.ai)
-
 </div>
 
 ---
 
 [pyxis3.ai](https://pyxis3.ai) — PYXIS3 is the autonomous operator that connects to your accounts across AWS, Google Cloud, Azure, VMware, Nutanix, and on-prem, and runs the estate end to end, within your guardrails, across five dimensions: **cost, capacity, reliability, security, and governance**.
 
-This organisation is our open-source home: the infrastructure and AI-infrastructure tooling we build in the open.
+This organisation is our open-source home.
 
 ## What PYXIS3 does
 
