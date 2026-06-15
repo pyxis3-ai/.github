@@ -1,8 +1,9 @@
 <div align="center">
 
-# PYXIS3
-
-### Infrastructure operations, run by AI.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
+  <img src="assets/banner-dark.png" alt="PYXIS3 — infrastructure operations, run by AI" width="880" />
+</picture>
 
 PYXIS3 is the autonomous operator that connects to your accounts across **AWS, Google Cloud, Azure, VMware, Nutanix, and on-prem** and runs the estate end to end — within your guardrails, across five dimensions. One predictable subscription, **never a share of savings**.
 
