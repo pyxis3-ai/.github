@@ -2,26 +2,20 @@
 
 ## Reporting a vulnerability
 
-If you discover a security issue in any PYXIS3 repository, **please do not open a public issue**. Instead, email [ops@pyxis3.ai](mailto:ops@pyxis3.ai) with:
+Please **do not open a public issue** for security problems.
 
-- A description of the issue
-- A reproducer (proof-of-concept code, exploitation steps)
-- Your assessment of impact
+Instead, email **ops@pyxis3.ai** with:
 
-We aim to acknowledge within 48 hours and propose a fix or mitigation within 14 days for in-scope issues.
+- a description of the issue and its impact,
+- steps to reproduce (a proof-of-concept if possible),
+- the affected version / commit.
+
+You'll get an acknowledgement within a few days. Once a fix is ready, a patched release is published and the report is credited (unless you prefer to stay anonymous).
+
+## Supported versions
+
+Only the **latest release** is supported. Please upgrade before reporting.
 
 ## Scope
 
-In scope:
-- Authentication / authorization bypass in `lens` (the only PYXIS3 project that hosts a web surface)
-- Code-injection vulnerabilities in `vllm-bench` (the only one that runs user-supplied benchmarks)
-- Supply-chain issues — typo-squatted dependencies, malicious upstream packages
-
-Out of scope:
-- Issues in upstream projects (vLLM, TGI, Triton, etc.) — please report those upstream
-- DoS attacks against publicly hosted demos (`noor.pyxis3.ai`, `lens.pyxis3.ai`) — these are demo instances, not production
-- Issues in documentation repos (`pyxis-arch`, `awesome-model-agnostic-llm`, `llm-serving-cookbook`)
-
-## Disclosure
-
-We follow coordinated disclosure. After a fix is released, we credit the reporter (with permission) in the release notes.
+These projects use private/undocumented OS APIs and run locally. Reports about memory safety, privilege escalation, the scripting-addition injection path, or anything that could harm a user's machine are especially welcome.
