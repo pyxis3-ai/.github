@@ -10,13 +10,17 @@ PYXIS3 is the autonomous operator that connects to your accounts across **AWS, G
 [![Book a demo](https://img.shields.io/badge/Book%20a%20demo-→-1a1d24)](https://pyxis3.ai/demo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pyxis3)
 
+[Overview](#overview) · [Dimensions](#dimensions) · [Guardrails & pricing](#guardrails--pricing) · [Open source](#open-source) · [Contact](#contact)
+
 </div>
 
 ---
 
-## An operator, not a dashboard
+## Overview
 
-PYXIS3 connects to your accounts, models every resource, and runs a continuous loop — **understand, decide, act, verify** — grounded in the FinOps Framework and the AWS Well-Architected pillars. It executes the reversible changes itself within your guardrails and holds the higher-impact ones, such as multi-year commitments, for your approval.
+PYXIS3 connects to your accounts, models every resource, and runs a continuous loop — **understand, decide, act, verify** — grounded in the FinOps Framework and the AWS Well-Architected pillars. It's an operator, not a dashboard: it executes the reversible changes itself within your guardrails and holds the higher-impact ones, such as multi-year commitments, for your approval.
+
+## Dimensions
 
 | Dimension | What the operator does |
 |---|---|
@@ -25,6 +29,8 @@ PYXIS3 connects to your accounts, models every resource, and runs a continuous l
 | 🛡️ **Reliability** | Reinforces workloads running hot. |
 | 🔒 **Security** | Hardens exposures. |
 | 📋 **Governance** | Enforces policy. |
+
+## Guardrails & pricing
 
 **Guardrails** are first-class: a lever allow-list, per-action and per-run caps, change-freeze windows, a pre-change baseline re-check, and one-click rollback.
 
@@ -41,14 +47,14 @@ This organisation is our open-source home — infrastructure, AI-infrastructure,
 | [`llm-serving-cookbook`](https://github.com/pyxis3-ai/llm-serving-cookbook) | Production recipes for Kubernetes-native model serving: vLLM on EKS, KEDA autoscaling, token economics, runtime selection. |
 | [`noor`](https://github.com/pyxis3-ai/noor) | Multilingual AI semantic search over the Qur'an and classical Arabic literature. Sentence-Transformers and sqlite-vec. Live at [`noor.pyxis3.ai`](https://noor.pyxis3.ai). |
 | [`awesome-model-agnostic-llm`](https://github.com/pyxis3-ai/awesome-model-agnostic-llm) | Curated index of open-source LLM-serving tooling: serving runtimes, routers, evaluators, and standards. |
-| [`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler) | Tiny macOS menu-bar app for total display control: disable/enable screens, Force HiDPI, EDR brightness boost, color warmth, window transparency/blur/picture-in-picture, and keep-awake. |
+| [`DisplayDisabler`](https://github.com/oabdrabo/DisplayDisabler) | Tiny macOS menu-bar app for total display control: disable/enable screens, Force HiDPI, EDR brightness boost, color warmth, window transparency/blur/picture-in-picture, and keep-awake. Objective-C on private CoreGraphics/SkyLight APIs. |
 
----
+## Contact
 
-<div align="center">
+- **Website** — [pyxis3.ai](https://pyxis3.ai)
+- **Demo** — [pyxis3.ai/demo](https://pyxis3.ai/demo)
+- **Email** — [ops@pyxis3.ai](mailto:ops@pyxis3.ai)
+- **LinkedIn** — [/company/pyxis3](https://www.linkedin.com/company/pyxis3)
+- **Founder** — [Omar Abdrabo (@oabdrabo)](https://github.com/oabdrabo)
 
-**[pyxis3.ai](https://pyxis3.ai)** · [Book a demo](https://pyxis3.ai/demo)
-
-<sub>Contact <a href="mailto:ops@pyxis3.ai">ops@pyxis3.ai</a> · founded by <a href="https://github.com/oabdrabo">Omar Abdrabo (@oabdrabo)</a></sub>
-
-</div>
+<div align="center"><sub>© PYXIS3 · founded by <a href="https://github.com/oabdrabo">@oabdrabo</a></sub></div>
